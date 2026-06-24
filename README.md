@@ -15,7 +15,6 @@ Antes de ejecutar las pruebas, asegúrese de contar con las siguientes herramien
 
 Para desplegar el entorno e instalar todas las dependencias necesarias, ejecute los siguientes comandos en la terminal de su máquina local:
 
-```bash
 # 1. Clonar el repositorio
 git clone https://github.com/Deisyadames2812/Prueba_Tecnica.git
 
